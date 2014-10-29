@@ -1,7 +1,7 @@
 ---
 layout: page
-title: RC Car Racing
-permalink: /rc_cars/
+title: RC Cars
+permalink: /rccars/
 ---
 
 Racing radio controlled cars is a hobby of mine. I often get funny looks when I mention this, but I like cars, I like speed, I like technology, and this has all of those things!
