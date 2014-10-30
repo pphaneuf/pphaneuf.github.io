@@ -11,3 +11,8 @@ github_username:  pphaneuf
 # Build settings
 markdown: kramdown
 permalink: "/:year/:month/:day/:title/"
+
+collections:
+  rccars:
+    output: true
+    permalink: /rccars/:path/
