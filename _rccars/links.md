@@ -7,7 +7,9 @@ summary: Various useful links to news, forums, and clubs/tracks.
 Facebook
 ========
 
-It seems like a lot of the UK racers and clubs have presence on Facebook, using it for their communities. Here's some of the groups and pages I've found on Facebook:
+It seems like a lot of the UK racers and clubs have presence on Facebook, using
+it for their communities. Here's some of the groups and pages I've found on
+Facebook:
 
  - [BRCA Touring Car Championship](https://www.facebook.com/groups/brcatcnationals/)
  - [Hertford Radio Car Club](https://www.facebook.com/groups/337059326393117/)
@@ -25,7 +27,10 @@ It seems like a lot of the UK racers and clubs have presence on Facebook, using 
 CentralBooking
 ==============
 
-In the UK, a popular web site to find races and clubs is [CentralBooking](http://www.centralbooking.org/). It's a little bit difficult to navigate at times, I find, and it doesn't have *all* the races or *all* the clubs, but you can get an idea of what is going on near you.
+In the UK, a popular web site to find races and clubs is
+[CentralBooking](http://www.centralbooking.org/). It's a little bit difficult
+to navigate at times, I find, and it doesn't have *all* the races or *all* the
+clubs, but you can get an idea of what is going on near you.
 
 News
 ====
