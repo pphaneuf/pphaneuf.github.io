@@ -72,3 +72,7 @@ generation to the next of a given car.
 In some cases, there can be very good deal to be had if the previous owner of a
 car did some upgrades, which might put you much closer to the base version of
 the current model than you might expect, in terms of performance.
+
+Also, a used car might include extras such as wheels/tyres, body shells, or
+other spare parts, which can mean additional savings to the overall cost of
+getting the car running.
