@@ -75,6 +75,23 @@ either. Just like video games, you'll probably find that you can adapt and
 "lead" the car a bit to erase the effect, but for the best experience, you
 would want the highest refresh rate possible, of course.
 
+Receivers
+=========
+
+The most important characteristic of a receiver is whether it is compatible
+with your transmitter! Past the basic "it works" level, some transmitter need
+specific receivers for some of their features. For example, with my Spektrum
+DX4R Pro radio, the SR2000 allows for a 5.5 ms refresh rate, but with the
+SR410, it is only 11 ms (but has four channels instead of two, in exchange).
+
+Some receivers also have extended features, like telemetry (allowing to
+transmit *back* information like motor temperature or speed, etc), or driving
+assistances (traction control, ABS braking, stability control). Many of those
+features are not allowed for racing, so I did not investigate these much.
+
+Often, transmitters will include a receiver, but check whether that is the
+case, as this will be an additional cost you might not expect.
+
 Which One?
 ==========
 
