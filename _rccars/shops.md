@@ -7,6 +7,13 @@ summary: Some I used, others I haven't, mainly for my own convenience.
 Shops I Have Used
 =================
 
+ - [Active Scale Models](http://www.activescalemodels.co.uk/)
+
+I only used them in person, when they were at Rug Rucers, at the [Hertford
+Radio Car Club](http://www.hertfordracing.co.uk/). The owner was very helpful,
+and took the time to answer my questions, despite a busy racing day! Their web
+site was being worked on at that time, though, so I haven't tried that yet.
+
  - [MB Models](http://www.rccarshop.co.uk/)
 
 This is where I got most of my initial kit from, chosen mainly because they had
@@ -14,6 +21,12 @@ most of what I was looking for, so I could make a single order to get
 everything, instead of chasing the lowest price and piecing everything
 together. It turned out pretty well, I had some questions that the owner
 answered quickly by email, nice experience.
+
+ - [Modelsport UK](http://modelsport.co.uk/)
+
+I only used them for my hauler bag, as they had the best price on it, it was
+all as expected. Their site is nice, but as they don't carry the Xray kits that
+I wanted, I didn't use them much.
 
  - [Steve Webb Models](http://stevewebb.co.uk/) (also known as [Servo Shop](http://servoshop.co.uk/))
 
@@ -37,33 +50,14 @@ Make sure to get an account before placing your order, though, because I found
 out on my first order that if you don't, there doesn't seem to be any way to
 get the tracking number for your order!?
 
- - [Active Scale Models](http://www.activescalemodels.co.uk/)
-
-I only used them in person, when they were at Rug Rucers, at the [Hertford
-Radio Car Club](http://www.hertfordracing.co.uk/). The owner was very helpful,
-and took the time to answer my questions, despite a busy racing day! Their web
-site was being worked on at that time, though, so I haven't tried that yet.
-
- - [Modelsport UK](http://modelsport.co.uk/)
-
-I only used them for my hauler bag, as they had the best price on it, it was
-all as expected. Their site is nice, but as they don't carry the Xray kits that
-I wanted, I didn't use them much.
-
 Shops I Did *Not* Use (Yet?)
 ============================
 
 This is for my own reference, as I might want to use them.
 
- - [GT12 Shop](http://gt12shop.co.uk/)
- - [Model Car Racer](http://modelcarracer.com/)
- - [SLD Models](http://www.sldmodels.co.uk/)
- - [Demon Products](http://demonpowerproducts.co.uk/)
- - [JE Models](http://jemodels.com/)
- - [SMD Direct](http://www.smddirect.co.uk/): UK importers for a few brands, including Sanwa.
  - [CPD Racing](http://shop.cpdracing.co.uk/)
- - [Moss Models](http://www.mossrcmodels.co.uk/)
- - [RC Dis.Co](http://www.rcdisco.com/): UK importers for Xray, they should be able to get all the parts?
+ - [Demon Products](http://demonpowerproducts.co.uk/)
+ - [GT12 Shop](http://gt12shop.co.uk/)
  - [HobbyKing.com](http://www.hobbyking.co.uk/)
 
 I think HobbyKing is based in Hong Kong? They appear to have warehouses in a
@@ -72,3 +66,10 @@ warehouse a given part is from, you might have to pay import tax on it,
 separately (when you get it?)? Their site seems to indicate which warehouse
 each part is available in, but if you order there, you should pay attention to
 that to avoid surprises!
+
+ - [JE Models](http://jemodels.com/)
+ - [Model Car Racer](http://modelcarracer.com/)
+ - [Moss Models](http://www.mossrcmodels.co.uk/)
+ - [RC Dis.Co](http://www.rcdisco.com/): UK importers for Xray, they should be able to get all the parts?
+ - [SLD Models](http://www.sldmodels.co.uk/)
+ - [SMD Direct](http://www.smddirect.co.uk/): UK importers for a few brands, including Sanwa.
