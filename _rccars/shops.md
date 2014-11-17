@@ -27,7 +27,8 @@ This is where I got most of my initial kit from, chosen mainly because they had
 most of what I was looking for, so I could make a single order to get
 everything, instead of chasing the lowest price and piecing everything
 together. It turned out pretty well, I had some questions that the owner
-answered quickly by email, nice experience.
+answered quickly by email, nice experience. They have free shipping on orders
+over £50.
 
  - [Modelsport UK](http://modelsport.co.uk/)
 
