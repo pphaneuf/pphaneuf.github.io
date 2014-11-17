@@ -14,6 +14,13 @@ Radio Car Club](http://www.hertfordracing.co.uk/). The owner was very helpful,
 and took the time to answer my questions, despite a busy racing day! Their web
 site was being worked on at that time, though, so I haven't tried that yet.
 
+ - [Demon Products](http://demonpowerproducts.co.uk/)
+
+Very racer oriented, and I believe the owner is a racer himself? The stock
+seems to be a bit spottier, but I wouldn't be surprised if sending them a note
+using their contact form could get you sorted with what you need. They have
+free shipping on orders over £40.
+
  - [MB Models](http://www.rccarshop.co.uk/)
 
 This is where I got most of my initial kit from, chosen mainly because they had
@@ -56,7 +63,6 @@ Shops I Did *Not* Use (Yet?)
 This is for my own reference, as I might want to use them.
 
  - [CPD Racing](http://shop.cpdracing.co.uk/)
- - [Demon Products](http://demonpowerproducts.co.uk/)
  - [GT12 Shop](http://gt12shop.co.uk/)
  - [HobbyKing.com](http://www.hobbyking.co.uk/)
 
