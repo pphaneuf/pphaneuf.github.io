@@ -10,25 +10,25 @@ that can add up!
 
 Here's a list of what I needed to get my Xray T4 touring car to run:
 
- - radio set (transmitter and receiver)
- - steering servo
- - electronic speed controller (ESC)
- - motor
- - LiPo pack
- - wheels and tyres set
- - fibre tape (to hold down the battery)
- - pinion gear (kit came with a spur gear, but no pinion!)
- - bearing oil
- - thread lock
- - battery connectors
- - battery charger
- - balance leads for my charger
- - LiPo safety bag
- - body shell (got it painted, but otherwise, paint and masking tape too)
- - extra body clips (kit came with 4, but I needed an extra one for
+- radio set (transmitter and receiver)
+- steering servo
+- electronic speed controller (ESC)
+- motor
+- LiPo pack
+- wheels and tyres set
+- fibre tape (to hold down the battery)
+- pinion gear (kit came with a spur gear, but no pinion!)
+- bearing oil
+- thread lock
+- battery connectors
+- battery charger
+- balance leads for my charger
+- LiPo safety bag
+- body shell (got it painted, but otherwise, paint and masking tape too)
+- extra body clips (kit came with 4, but I needed an extra one for
 the track lap counting transponder!)
- - tyre additive
- - double-sided tape (my receiver and ESC came with some, though)
+- tyre additive
+- double-sided tape (my receiver and ESC came with some, though)
 
 In the case of a used car, you might have some of these included, so check
 first to see what's included or not. That might be a hidden, but significant
