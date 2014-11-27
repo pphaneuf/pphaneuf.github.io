@@ -21,6 +21,21 @@ seems to be a bit spottier, but I wouldn't be surprised if sending them a note
 using their contact form could get you sorted with what you need. They have
 free shipping on orders over £40.
 
+- [GT12 Shop](http://gt12shop.co.uk/) (also known as [ModelCarRacer](http://modelcarracer.com/))
+
+As their name indicates, they specialize in GT12. Great support, I had two of
+an item in an order, but they put only one, I got in touch, and the missing one
+was in the mail the next day, free shipping. They've started the shop not that
+long ago, but are growing the business, so I'd expect it to get even better.
+They tell me that anything that their online inventory is not 100% complete,
+but that if it's related to GT12, they probably have it, or they can get it the
+next day, just ask them! Their online system also doesn't tell you the tracking
+number, but they gave it to me when I asked them. They do free shipping on
+orders above £50.
+
+Note that their other [ModelCarRacer](http://modelcarracer.com/) site does
+**not** seem to have the same inventory!
+
 - [MB Models](http://www.rccarshop.co.uk/)
 
 This is where I got most of my initial kit from, chosen mainly because they had
@@ -64,7 +79,6 @@ Shops I Did *Not* Use (Yet?)
 This is for my own reference, as I might want to use them.
 
 - [CPD Racing](http://shop.cpdracing.co.uk/)
-- [GT12 Shop](http://gt12shop.co.uk/)
 - [HobbyKing.com](http://www.hobbyking.co.uk/)
 
 I think HobbyKing is based in Hong Kong? They appear to have warehouses in a
