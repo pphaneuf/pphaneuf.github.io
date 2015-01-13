@@ -76,14 +76,13 @@ get the tracking number for your order!?
  - [Zen-Racing](http://www.zen-racing.co.uk/)
 
 Their selection is a bit limited, but they are distributors for a few brands
-(among others, ARC, G-Force, Xenon, and of course, their own Zen-Racing), which
-they have good stock of. What they have is of course centered around onroad
-racing (world champion Dave Spashett is on staff there, possibly a co-owner I
-think?). They have free shipping on orders above £50, but they only have one
-shipping option, and it does not have tracking (Royal Post Signed For, if I
-recall correctly). They also offer track-side delivery to many events, as they
-are very present, and have been quite helpful with tips on how to use their
-products.
+(among others, ARC, G-Force, Xenon, Spider Grip, Titan Blitz, BSI glue, and of
+course, their own Zen-Racing), which they have good stock of. What they have is
+of course centered around onroad racing (world champion Dave Spashett is on
+staff there, possibly a co-owner I think?). They have free shipping on orders
+above £50, (Royal Mail Signed For or UK Mail, depending on the size). They also
+offer track-side delivery to many events, as they are very present, and have
+been quite helpful with tips on how to use their products.
 
 Shops I Did *Not* Use (Yet?)
 ============================
