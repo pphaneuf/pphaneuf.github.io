@@ -8,8 +8,9 @@ summary: Which tyre to get, and maintaining them.
 
 ## Gluing Tyre Sidewalls
 
-I've been given some tips by Andy Murray on the subject of putting glue on your
-foam tyres sidewalls to improve handling and reduce chunking.
+I've been given some tips by [Andy
+Murray](https://www.facebook.com/andy.murray.7) on the subject of putting glue
+on your foam tyres sidewalls to improve handling and reduce chunking.
 
 Lower profile foam tyres give better handling, and while this is normally done
 by truing them down, it increases costs, as it means you either waste rubber by
