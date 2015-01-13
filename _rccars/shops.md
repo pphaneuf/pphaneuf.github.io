@@ -73,6 +73,18 @@ Make sure to get an account before placing your order, though, because I found
 out on my first order that if you don't, there doesn't seem to be any way to
 get the tracking number for your order!?
 
+ - [Zen-Racing](http://www.zen-racing.co.uk/)
+
+Their selection is a bit limited, but they are distributors for a few brands
+(among others, ARC, G-Force, Xenon, and of course, their own Zen-Racing), which
+they have good stock of. What they have is of course centered around onroad
+racing (world champion Dave Spashett is on staff there, possibly a co-owner I
+think?). They have free shipping on orders above £50, but they only have one
+shipping option, and it does not have tracking (Royal Post Signed For, if I
+recall correctly). They also offer track-side delivery to many events, as they
+are very present, and have been quite helpful with tips on how to use their
+products.
+
 Shops I Did *Not* Use (Yet?)
 ============================
 
@@ -90,6 +102,7 @@ that to avoid surprises!
 
 - [JE Models](http://jemodels.com/)
 - [Model Car Racer](http://modelcarracer.com/)
+- [MomentumRC](http://momentumrc.co.uk/): Mark Stiles' shop, so should be good for 1/12 scale.
 - [Moss Models](http://www.mossrcmodels.co.uk/)
 - [RC Dis.Co](http://www.rcdisco.com/): UK importers for Xray, they should be able to get all the parts?
 - [RC ModelShop Direct](http://rcmodelshopdirect.com/)
