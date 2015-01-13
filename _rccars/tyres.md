@@ -26,6 +26,8 @@ Loctite, saying "brush on" in capitals in a blue box at the bottom of the label
 (he says others are too thick). That comes with a brush, which makes it easy to
 apply.
 
+Apply the glue only to the outer sidewall.
+
 With big tyres, he puts several layers, all the way up the sidewall of both the
 fronts and rears. This makes the car easier to drive, avoiding spin outs when
 turning hard, and eliminating grip roll (gluing the front and rear prevent
@@ -36,5 +38,6 @@ run to stop peeling from the rim, it would stay unchunked. With the Loctite
 glue he recommends, gluing all four tyres takes less than a minute (it's easier
 after the sidewalls are already hard). Just keep "topping it up".
 
-If you don't do it every run, at least check for peeling. That can give the car
-random tendencies, even if it doesn't chunk during the run!
+If you don't do it every run, at least check for peeling (foam coming unglued
+from the wheel itself). That can give the car random tendencies, even if it
+doesn't chunk during the run!
