@@ -2,7 +2,8 @@
 title: Pierre Phaneuf
 email: pphaneuf@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my little corner of Internet.
+  Pierre Phaneuf's site with everything from software development, to bicycles,
+  to cars (both RC and full size)!
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://pphaneuf.github.io" # the base hostname & protocol for your site
 twitter_username: pphaneuf
